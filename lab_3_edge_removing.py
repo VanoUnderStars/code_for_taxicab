@@ -1,4 +1,3 @@
-# http://sovietov.com/txt/triangle/triangle.html
 from graph_reader import read_graph_as_matrix, read_matrix, matrix_to_edge_list
 from print_utils import print_matrix, edge_to_str, matrix_to_str, print_result_matrix
 
